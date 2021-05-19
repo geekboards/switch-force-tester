@@ -10,3 +10,4 @@ BOM:
 - Linear stage [ https://aliexpress.ru/item/1005001497313513.html ]
 - Kailh hotswap socket
 - Jumper wires
+- M3 hex screws x6 (lengths to be added later)
