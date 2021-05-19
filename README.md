@@ -1,5 +1,7 @@
 # switch-force-tester
 
+![photo](https://github.com/geekboards/switch-force-tester/blob/289c4860ab67a03f3a4b598adc893cd3b917cac2/images/switch_tester.jpg "Device photo")
+
 BOM:
 - Arduino Nano
 - CNC shield v4
